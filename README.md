@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Interactive
 |  |
 | ------- |
@@ -16,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 <!---LeetCode Topics End-->
