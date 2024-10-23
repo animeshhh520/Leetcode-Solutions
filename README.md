@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+## Array
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
