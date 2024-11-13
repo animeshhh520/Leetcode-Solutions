@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
