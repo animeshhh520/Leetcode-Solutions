@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0863-sum-of-distances-in-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 ## Tree
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
