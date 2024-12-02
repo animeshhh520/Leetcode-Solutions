@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
@@ -142,4 +146,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
