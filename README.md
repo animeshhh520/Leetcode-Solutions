@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -163,5 +164,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
