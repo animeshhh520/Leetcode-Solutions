@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
@@ -60,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
