@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
@@ -139,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
