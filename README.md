@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0863-sum-of-distances-in-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
