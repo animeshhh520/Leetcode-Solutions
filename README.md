@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## String
 |  |
