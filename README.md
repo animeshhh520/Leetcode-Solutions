@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
