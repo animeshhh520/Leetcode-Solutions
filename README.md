@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## String
 |  |
