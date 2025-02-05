@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
 | ------- |
