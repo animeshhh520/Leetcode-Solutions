@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0371-sum-of-two-integers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -280,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
