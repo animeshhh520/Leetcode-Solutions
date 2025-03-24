@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 ## Queue
@@ -284,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
