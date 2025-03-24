@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -281,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
