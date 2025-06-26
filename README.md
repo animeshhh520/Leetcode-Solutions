@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0218-the-skyline-problem](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Heap (Priority Queue)
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
