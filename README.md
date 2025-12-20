@@ -316,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/animeshhh520/Leetcode-Solutions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
